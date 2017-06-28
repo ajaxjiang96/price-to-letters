@@ -2,12 +2,15 @@
 A JavaScript toll that converts price number to letters
 
 ## Usage
+
+run `npm install price-to-letters`, and then
+
 ```javascript
-let c = require('./convert');
+let c = require('price-to-letters');
 c.spell(1); // 'One Dollar'
 ```
 
-works on two decimal places, up to 999 trillion (`c.spell(999999999999999)`)
+works on two decimal places, up to 999 trillion (`c.spell(999999999999999)`).
 
 ## TODOs
 - [ ] add French localization;
