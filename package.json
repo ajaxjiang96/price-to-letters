@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajaxjiang96/price.git"
+    "url": "git+https://github.com/ajaxjiang96/price-to-letters.git"
   },
   "keywords": [
     "price",
@@ -19,7 +19,7 @@
   "author": "Jiacheng Jiang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ajaxjiang96/price/issues"
+    "url": "https://github.com/ajaxjiang96/price-to-letters/issues"
   },
-  "homepage": "https://github.com/ajaxjiang96/price#readme"
+  "homepage": "https://github.com/ajaxjiang96/price-to-letters#readme"
 }
