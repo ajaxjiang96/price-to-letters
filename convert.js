@@ -46,7 +46,7 @@ module.exports = {
         default: cents = " and " + cents + " Cents";
       }
 
-      return dollars + cents;
+      return (dollars + cents).replace(/ +/g, " ");
 
     }
     return num;
