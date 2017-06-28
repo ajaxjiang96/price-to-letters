@@ -1,5 +1,5 @@
-# price
-A JavaScript toll that converts price number to letters
+# price-to-letters
+A JavaScript tool that converts price number to letters.
 
 ## Usage
 
