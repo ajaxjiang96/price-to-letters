@@ -1,4 +1,8 @@
 # price-to-letters
+![Publish Status](https://github.com/ajaxjiang96/price-to-letters/actions/workflows/npm-publish.yml/badge.svg)
+[![npm version](https://badge.fury.io/js/price-to-letters.svg)](https://badge.fury.io/js/price-to-letters)
+![Downloads](https://img.shields.io/npm/dt/price-to-letters)
+
 A JavaScript tool that converts price number to letters.
 
 ## Usage
