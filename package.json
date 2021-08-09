@@ -1,6 +1,6 @@
 {
   "name": "price-to-letters",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A JavaScript tool that converts numeric prices to letters.",
   "main": "convert.js",
   "scripts": {
